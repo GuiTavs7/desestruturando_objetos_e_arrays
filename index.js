@@ -24,7 +24,7 @@ console.log(sobrenomePessoa);
 
 const numeros = [1, 2, 3];
 
-const [ um, dois, tres, variavelUndefined] = numeros;
+const [um, dois, tres, variavelUndefined] = numeros;
 
 console.log(um);
 console.log(dois);
